@@ -16,7 +16,7 @@
 
 'use strict';
 
-var DEFAULT_URL = 'daaMidsemCseIt.pdf';
+var DEFAULT_URL = 'csemid4daa2016/csemid4daa2016.pdf';
 
 
   var pdfjsWebLibs = {
